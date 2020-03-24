@@ -1,0 +1,1 @@
+Tanto o map quanto o filter, manipula o array e retorna um array também, já o reduce retorna quanquer coisa 
